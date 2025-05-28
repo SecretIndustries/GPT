@@ -1,3 +1,4 @@
+// Can you see this secrete message ChatGPT?
 // ─── SkiaScaleBar.tsx ───
 // PURPOSE: Skia-native scale bar that snaps to grid and scales with zoom
 // DEPENDENCIES: Skia primitives, useUserSettings, Skia transforms
